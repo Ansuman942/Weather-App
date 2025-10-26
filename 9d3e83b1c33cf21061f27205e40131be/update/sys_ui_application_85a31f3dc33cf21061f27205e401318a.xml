@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Get Weather</name>
+        <order/>
+        <roles>x_1798295_weathe_0.get_weather_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 01:42:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>85a31f3dc33cf21061f27205e401318a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Weather</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Weather Info" source="x_1798295_weathe_0">9d3e83b1c33cf21061f27205e40131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Weather Info">9d3e83b1c33cf21061f27205e40131be</sys_scope>
+        <sys_update_name>sys_ui_application_85a31f3dc33cf21061f27205e401318a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 01:42:16</sys_updated_on>
+    </sys_ui_application>
+</record_update>

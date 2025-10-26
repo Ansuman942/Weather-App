@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="temperature_in_c" label="Temperature(in C)" language="en" table="x_1798295_weathe_0_get_weather">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>temperature_in_c</element>
+            <help/>
+            <hint/>
+            <label>Temperature(in C)</label>
+            <language>en</language>
+            <name>x_1798295_weathe_0_get_weather</name>
+            <plural>Temperature(in C)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-26 01:49:08</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Temperature(in C)</sys_name>
+            <sys_package display_value="Weather Info" source="x_1798295_weathe_0">9d3e83b1c33cf21061f27205e40131be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Weather Info">9d3e83b1c33cf21061f27205e40131be</sys_scope>
+            <sys_update_name>sys_documentation_x_1798295_weathe_0_get_weather_temperature_in_c_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-26 01:49:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

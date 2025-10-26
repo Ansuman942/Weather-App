@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1798295_weathe_0.get_weather_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>get_weather_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 01:42:16</sys_created_on>
+        <sys_id>4da31f3dc33cf21061f27205e4013109</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1798295_weathe_0.get_weather_user</sys_name>
+        <sys_package display_value="Weather Info" source="x_1798295_weathe_0">9d3e83b1c33cf21061f27205e40131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Weather Info">9d3e83b1c33cf21061f27205e40131be</sys_scope>
+        <sys_update_name>sys_user_role_4da31f3dc33cf21061f27205e4013109</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 01:42:16</sys_updated_on>
+    </sys_user_role>
+</record_update>

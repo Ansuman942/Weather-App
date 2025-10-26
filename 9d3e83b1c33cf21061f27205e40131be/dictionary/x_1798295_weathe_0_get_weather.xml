@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c7831b3dc33cf21061f27205e40131eb" label="Get Weather" max_length="40" name="x_1798295_weathe_0_get_weather" type="collection">
+        <element label="Country" max_length="100" name="country" type="string"/>
+        <element label="Temperature(in C)" max_length="100" name="temperature_in_c" type="string"/>
+        <element label="Present Condition" max_length="100" name="present_condition" type="string"/>
+        <element label="Enter Location" max_length="100" name="enter_location" type="string"/>
+        <element label="Windspeed" max_length="100" name="windspeed" type="string"/>
+        <element label="LocalTime" max_length="100" name="localtime" type="glide_date_time"/>
+        <element label="State" max_length="100" name="state" type="string"/>
+    </element>
+</database>

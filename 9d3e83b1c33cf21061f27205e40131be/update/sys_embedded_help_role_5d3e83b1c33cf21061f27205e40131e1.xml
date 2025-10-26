@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 01:18:32</sys_created_on>
+        <sys_id>5d3e83b1c33cf21061f27205e40131e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1d3e83b1c33cf21061f27205e40131dc</sys_name>
+        <sys_package display_value="Weather Info" source="x_1798295_weathe_0">9d3e83b1c33cf21061f27205e40131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Weather Info">9d3e83b1c33cf21061f27205e40131be</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5d3e83b1c33cf21061f27205e40131e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 01:18:32</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
